@@ -53,6 +53,30 @@ https://www.random.org/integer-sets/?sets=1&num=162&min=18800&max=35000&seqnos=o
  - One special block will be choosed from nubmer 18800 to 35000 according to the hash sum of all the 162 minded blocks' hash.
  - Genesis block will send ??? PMEER to the owner of the speical block.
 
+#### The 162 Mined Blocks List
+
+|Num   | Block | Info        |                                                                  |
+|------|-------|-------------|------------------------------------------------------------------|
+|1     | 18978 | *address*   | [TmfLjksDFTTwaPiNv6zBTGS8tkqMt6ci2Cj](https://explorer.qitmeer.io/address/TmfLjksDFTTwaPiNv6zBTGS8tkqMt6ci2Cj)                           |
+|      |       | *hash*      | [03db8eb3efcc0aa0963af175add691243d23f6a99a5a4a179f43d8e8a73cf868](https://explorer.qitmeer.io/block/03db8eb3efcc0aa0963af175add691243d23f6a99a5a4a179f43d8e8a73cf868) |
+|      |       | *txsvalid*  | true                                                             |
+|2     | 19375 | *address*   | [TmkuVRGjxor5iNJKThmkoRMKe4cBX8DRc6e](https://explorer.qitmeer.io/address/TmkuVRGjxor5iNJKThmkoRMKe4cBX8DRc6e)                           |
+|      |       | *hash*      | [087846f451039254bcc755fdf9bbb239a2d2260aaf2f1c462b967c9f3e1023f1](https://explorer.qitmeer.io/block/087846f451039254bcc755fdf9bbb239a2d2260aaf2f1c462b967c9f3e1023f1) |
+|      |       | *txsvalid*  | true                                                             |
+|3     | 19445 | *address*   | [TmZs2BjFxze1oPG28tQ8NfSrw8mHUrti9rc](https://explorer.qitmeer.io/address/TmZs2BjFxze1oPG28tQ8NfSrw8mHUrti9rc)                           |
+|      |       | *hash*      | [04bf10c829f1097a90d0b70cf0d4735a66e059fe63e488b3c9f7b987e577a7d5](https://explorer.qitmeer.io/block/04bf10c829f1097a90d0b70cf0d4735a66e059fe63e488b3c9f7b987e577a7d5) |
+|      |       | *txsvalid*  | true                                                             |
+|4     | 19706 | *address*   | [TmPvQaAAtHWDhzGdsd8gQ2q3rkuzfKJeaws](https://explorer.qitmeer.io/address/TmPvQaAAtHWDhzGdsd8gQ2q3rkuzfKJeaws)                           |
+|      |       | *hash*      | [03ca89de2fbd65aae1eef559b9d072719466d05bc24dfa67850621d2ab952b00](https://explorer.qitmeer.io/block/03ca89de2fbd65aae1eef559b9d072719466d05bc24dfa67850621d2ab952b00) |
+|      |       | *txsvalid*  | true                                                             |
+|5     | 19880 | *address*   | [TmRShC5EEhKp9njDyH465xDdpoQY4bA3DpW](https://explorer.qitmeer.io/address/TmRShC5EEhKp9njDyH465xDdpoQY4bA3DpW)                           |
+|      |       | *hash*      | [053198986cd610263f255a0a01b17c955ddb47cb58fa86edc209d37348d56fee](https://explorer.qitmeer.io/block/053198986cd610263f255a0a01b17c955ddb47cb58fa86edc209d37348d56fee) |
+|      |       | *txsvalid*  | true                                                             |
+|6     | 19988 | *address*   | [TmUQjNKPA3dLBB6ZfcKd4YSDThQ9Cqzmk5S](https://explorer.qitmeer.io/address/TmUQjNKPA3dLBB6ZfcKd4YSDThQ9Cqzmk5S)                           |
+|      |       | *hash*      | [032d821d4aa7ead3e94f2c37ece7d323494e927f94e86788f2de3a3aaba66a75](https://explorer.qitmeer.io/block/032d821d4aa7ead3e94f2c37ece7d323494e927f94e86788f2de3a3aaba66a75) |
+|      |       | *txsvalid*  | true                                                             |
+
+
 ### v0.8.1 2019/11/20
 
 | Internal Testnet   |     Info             |
