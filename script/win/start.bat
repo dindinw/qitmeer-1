@@ -24,6 +24,7 @@ echo listen=0.0.0.0:18130 >> config.conf
 echo rpclisten=0.0.0.0:18131 >> config.conf
 echo rpcuser=qitmeer >> config.conf
 echo rpcpass=qitmeer123 >> config.conf
+echo rpcmaxclients=30 >> config.conf
 echo notls=false >> config.conf
 echo printorigin=false >> config.conf
 echo debuglevel=info >> config.conf

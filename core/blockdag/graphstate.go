@@ -227,7 +227,7 @@ func (gs *GraphState) Decode(r io.Reader, pver uint32) error {
 }
 
 func (gs *GraphState) MaxPayloadLength() uint32 {
-	return 8 + 4 + 4 + 4 + (MaxTips * hash.HashSize)
+	return 16 + 16 + 16 + 16 + (MaxTips * hash.HashSize)
 }
 
 // Create a new GraphState
